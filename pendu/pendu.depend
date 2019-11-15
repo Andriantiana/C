@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1563800928 source:d:\perso\c\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"character.h"
+
+1563789150 d:\perso\c\pendu\character.h
+
+1563789150 source:d:\perso\c\pendu\character.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1563548213 d:\perso\c\pendu\fonction_jeu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"character.h"
+
+1563803784 source:d:\perso\c\pendu\fonction_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"character.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554298368 source:d:\perso\c\nb_mystere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

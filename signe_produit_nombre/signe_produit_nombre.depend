@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1573819088 source:d:\perso\c\signe_produit_nombre\function.c
+	<stdio.h>
+	<stdlib.h>
+
+1573819274 source:d:\perso\c\signe_produit_nombre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"function.h"
+
+1573819305 d:\perso\c\signe_produit_nombre\function.h
+

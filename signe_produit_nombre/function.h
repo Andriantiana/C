@@ -1,0 +1,1 @@
+char* signe(double nb);

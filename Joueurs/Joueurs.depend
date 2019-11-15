@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1563377136 source:d:\perso\c\joueurs\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+
+1563375517 d:\perso\c\joueurs\structure.h
+
+1563375481 source:d:\perso\c\joueurs\structure.c
+
